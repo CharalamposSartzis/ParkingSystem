@@ -1,6 +1,6 @@
 # ParkingSystem
 
-Java parking management system for either electric or regular vehicles (cars, trucks, motorcycles). 
+Java parking management system for either electric or regular vehicles (cars, motorcycles, vans). 
 
 Applied principles: OOP, inheritance and static methods (for utility/validation functionalities).
 
